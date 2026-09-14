@@ -11,7 +11,7 @@ function Experience() {
                 </div>
 
                 <div className="experience-content">
-                    <h3>Software Engineer · Exafluence <a href="https://exafluence.com/">↗</a></h3>
+                    <h3>Software Engineer · Exafluence <a href="https://exafluence.com/" target="_blank">↗</a></h3>
 
                     <p>
                         Building backend and full-stack systems with a focus on LLM
@@ -40,7 +40,7 @@ function Experience() {
                 </div>
 
                 <div className="experience-content">
-                    <h3>Software Engineer · L&T Technology Services <a href="https://www.ltts.com/">↗</a></h3>
+                    <h3>Software Engineer · L&T Technology Services <a href="https://www.ltts.com/" target="_blank">↗</a></h3>
                     <h4>Web-based Live Tracking Application</h4>
 
                     <p>
@@ -72,7 +72,7 @@ function Experience() {
                 </div>
 
                 <div className="experience-content">
-                    <h3>Graduate Engineer Trainee · Larson & Toubro <a href="https://www.larsentoubro.com/">↗</a></h3>
+                    <h3>Graduate Engineer Trainee · Larson & Toubro <a href="https://www.larsentoubro.com/" target="_blank">↗</a></h3>
                     <h4>Sustainability (BRSR) Web Application</h4>
 
                     <p>

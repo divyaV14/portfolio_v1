@@ -12,7 +12,7 @@ function Projects() {
                     analysis, filtering, and PDF/CSV report generation.
                 </p>
 
-                <a href="https://github.com/Sustainability-pro/brsr_tool">View Project →</a>
+                <a href="https://github.com/Sustainability-pro/brsr_tool" target="_blank">View Project →</a>
 
                 <div className="project-tags">
                     <span>React</span>
@@ -51,7 +51,7 @@ function Projects() {
                     playable directly in the browser.
                 </p>
 
-                <a href="https://github.com/divyaV14/2048game">View Project →</a>
+                <a href="https://github.com/divyaV14/2048game" target="_blank">View Project →</a>
 
                 <div className="project-tags">
                     <span>JavaScript</span>
@@ -66,7 +66,7 @@ function Projects() {
                     This is a NestJS application that automatically archives emails from a G-Suite inbox into a PostgreSQL database, with attachments stored in Google Drive.
                 </p>
 
-                <a href="https://github.com/divyaV14/email-bid-system">View Project →</a>
+                <a href="https://github.com/divyaV14/email-bid-system" target="_blank">View Project →</a>
 
                 <div className="project-tags">
                     <span>Node.js </span>
